@@ -3,8 +3,8 @@ Programazioan beti sortzen dira erroreak, bai programak idazten ari garen bitart
 
 Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen adibide bakoitzaren kokapena:
 
-- Salbuespenak1: . orr.
-- Trybaliabideekin: . orr.
-- Trycatchfinallyblokea: . orr.
-- Trywithresources2: . orr.
-- UrBiltegia: . orr.
+- Salbuespenak1: 279. orr.
+- Trybaliabideekin: 282. orr.
+- Trycatchfinallyblokea: 286. orr.
+- Trywithresources2: 278. orr.
+- UrBiltegia: 272. orr.
