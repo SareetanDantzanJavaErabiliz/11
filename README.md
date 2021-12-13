@@ -8,3 +8,6 @@ Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen ad
 - Trycatchfinallyblokea: 286. orr.
 - Trywithresources2: 278. orr.
 - UrBiltegia: 272. orr.
+
+| [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) | [Liburuaren erabilpena](https://youtu.be/xtkatKohanU) |
+| ------------- | ------------- |
